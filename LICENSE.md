@@ -1,4 +1,4 @@
-# 
+# smart Liquidity Bot for sandwich attack bot | pump-detection & token-launch-monitoring offers the most advanced sandwich attack bot, with pump-detection and
 
 
 
